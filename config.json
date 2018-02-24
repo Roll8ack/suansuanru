@@ -1,0 +1,14 @@
+{
+    "server": "45.32.29.16",
+    "local_address": "127.0.0.1",
+    "local_port": 1080,
+    "timeout": 300,
+    "workers": 1,
+    "server_port": 32507,
+    "password": "hxfUc8",
+    "method": "rc4-md5",
+    "obfs": "plain",
+    "obfs_param": "jd.hk",
+    "protocol": "origin",
+    "protocol_param": ""
+}
