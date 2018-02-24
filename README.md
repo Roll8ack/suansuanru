@@ -34,7 +34,9 @@ move to "~/shadowsocksr", then run:
 move to "~/shadowsocksr/shadowsocks", then run:
 
     python server.py -p 443 -k password -m aes-128-cfb -O auth_aes128_md5 -o tls1.2_ticket_auth_compatible
+    python local.py -c ../shadowsocks.json
 
+or any other config file which has the same form as shadowsocks.json
 Check all the options via `-h`.
 
 You can also use a configuration file instead (recommend), move to "~/shadowsocksr" and edit the file "user-config.json", then move to "~/shadowsocksr/shadowsocks" again, just run:
