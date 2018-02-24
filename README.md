@@ -1,4 +1,4 @@
-ShadowsocksR
+SUANSUANRU(SSR)
 ===========
 
 [![Build Status]][Travis CI]
